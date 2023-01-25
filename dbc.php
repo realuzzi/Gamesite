@@ -5,10 +5,10 @@
 //*********************************************************
 
 
-	$host = "sql107.epizy.com"
-	$userName = "epiz_33346890"
-	$password = "uyqPjCrldfl"
-	$database = "epiz_33346890_gamesite"
+	$host = "sql107.epizy.com";
+	$userName = "epiz_33346890";
+	$password = "uyqPjCrldfl";
+	$database = "epiz_33346890_gamesite";
 	
 	$con = mysqli_connect($host, $username, $password, $database);
 	
